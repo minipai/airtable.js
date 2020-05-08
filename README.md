@@ -60,6 +60,10 @@ You can also override the settings per connection:
 
 Go to https://airtable.com/api to see the interactive API documentation for your Airtable bases. Once you select a base, click the "JavaScript" tab to see code snippets using Airtable.js. It'll have examples for all operations you can perform against your base using this library.
 
+![Screen shot](https://user-images.githubusercontent.com/14149640/58465731-95081f80-8138-11e9-9b4f-93963c271d73.jpg)
+
+
+
 # Promises
 
 As of [v0.5.0](https://github.com/Airtable/airtable.js/releases/tag/v0.5.0) all of the methods that take a `done` callback will return a Promise if you don't pass in a `done` callback.
